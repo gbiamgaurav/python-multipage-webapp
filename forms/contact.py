@@ -4,7 +4,7 @@ import streamlit as st
 import requests  # pip install requests
 
 
-WEBHOOK_URL = st.secrets["WEBHOOK_URL"]
+WEBHOOK_URL = "absmdiddldm" #st.secrets["WEBHOOK_URL"]
 
 
 def is_valid_email(email):
